@@ -7,5 +7,4 @@ We have used DLIB module for face recodgnition and DBSCAN clustering algortihm a
 
 
 https://user-images.githubusercontent.com/75479397/143174679-f52a1de3-7201-4bd2-a815-50ec976ad0de.mp4
-[![Watch the video](https://user-images.githubusercontent.com/75479397/143174679-f52a1de3-7201-4bd2-a815-50ec976ad0de.mp4
-)](https://youtu.be/vt5fpE0bzSY)
+
